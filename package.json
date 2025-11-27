@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "tsx watch src/01-basics.ts",
+    "dev": "tsx watch src/index.ts",
     "build": "tsc",
-    "start": "node dist/01-basics.js"
+    "start": "node dist/index.js"
   },
   "keywords": [],
   "author": "",

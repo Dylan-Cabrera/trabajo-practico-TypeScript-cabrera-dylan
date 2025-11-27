@@ -1,4 +1,4 @@
-
+//Tipos fundamentales
 console.log("Tipos fundamentales");
 
 let productName: string = "pan";
